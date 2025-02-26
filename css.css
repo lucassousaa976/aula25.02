@@ -1,0 +1,16 @@
+header {
+    flex: 1;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+aside {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 20%; /* O aside ocupa 20% da largura */
+    height: 100%; /* A altura do aside é igual à altura da tela */
+    background-color: #e0e0e0;
+    padding: 20px;
+    box-sizing: border-box;
+}
